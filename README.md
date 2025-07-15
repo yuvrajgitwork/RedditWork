@@ -79,3 +79,5 @@ File	Description
 RedditPersonaGenerator.ipynb	Main Colab notebook
 Hungry-Move-6603_persona.txt	Sample generated persona
 README.md	This file
+
+Since the .txt file is just plain text, using PIL libraries I've converted it to be UX friendly like given in the prompt (Lucas). 
